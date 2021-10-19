@@ -1,1 +1,1 @@
-# ezVote
+## A voting system application.
