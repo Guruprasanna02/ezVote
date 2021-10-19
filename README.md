@@ -1,1 +1,1 @@
-## A voting system application.
+#### A voting system application.
