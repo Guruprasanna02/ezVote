@@ -14,7 +14,7 @@
 
 `pip3 install -r requirements.txt`
 
-4. Now run the following command to Create a superuser(admin):
+4. Now run the following command to create a superuser(admin):
 
 `python manage.py createsuperuser`
 
