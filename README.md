@@ -9,7 +9,9 @@
 3. Run the following commands in terminal:
 
 `virtualenv venv`
+
 `source venv/bin/activate`
+
 `pip3 install -r requirements.txt`
 
 4. Now run the following command to Create a superuser(admin):
@@ -19,6 +21,7 @@
 **_In the prompt, enter username, email and password for admin account_**
 
 5. To initialize the application, run:
+
 `python manage.py runserver`
 
 **_Make sure that you have python3, pip3 and virtualenv installed in host machine._**
