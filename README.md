@@ -1,4 +1,4 @@
-## ezVote is a flexible and easy-to-use voting system application for clients as well as for administrator to set-up poll(s) with admin privileges and a seperate page.
+## ezVote is a flexible and easy-to-use voting system application for clients as well as for administrator to set-up poll(s) with admin privileges, client authentication and polls can be customized by the admin.
 
 #### The app can be accessed at localhost:8000
 
